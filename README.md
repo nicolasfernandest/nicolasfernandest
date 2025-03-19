@@ -1,8 +1,8 @@
 ![](https://github.com/nicolasfernandest/nicolasfernandest/blob/main/bannersunset.gif) <br>
-<h3 align="center"><img align="center" src="https://github.com/nicolasfernandest/nicolasfernandest/blob/main/coffee.gif"> My name is Nicolas, I am a Full-Stack Developer</h3>
+<h3 align="center"><img align="center" src="https://github.com/nicolasfernandest/nicolasfernandest/blob/main/coffee.gif"> My name is Nicolas, a Full-Stack Developer</h3>
 
-<h2 align="center">About me</h2> 
-I am a undergraduate student in Systems Analysis and Development, with a passion for solving problems and creating modern, responsive user interfaces. Having hands-on experience with essential technologies such as HTML, CSS, and JavaScript, I am continuously expanding my knowledge in frameworks and libraries like React. Always seeking to improve my skills through practical projects and specialized courses, I'm also comfortable working in a team, being proactive, and creative. Currently focused on enhancing my front-end development skills, with a particular interest in responsive design and accessibility. I have already developed projects with interactive experiences optimized for viewing on different devices, always with a focus on the user experience
+<h2 align="center">About me</h2>
+Currently pursuing an undergraduate degree in Systems Analysis and Development, driven by a passion for problem-solving and creating modern, responsive user interfaces. With hands-on experience in essential technologies such as HTML, CSS, and JavaScript, my knowledge continues to grow through exploring frameworks and libraries like React. Constantly improving through practical projects and specialized courses, I thrive in team settings, always proactive and creative. Focused on enhancing front-end development skills, particularly in responsive design and accessibility. Past projects have included developing interactive experiences optimized for various devices, always with a strong emphasis on user experience.
 <div align="center">
 <br>
 <p>You can contact me through the socials below</p>
